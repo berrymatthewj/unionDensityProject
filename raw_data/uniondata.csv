@@ -1,0 +1,852 @@
+,Country,Source,Series,Year,Unit,Value
+54,Hungary,Survey data,Trade union  density,2004,Percentage,16.8
+55,Hungary,Survey data,Trade union  density,2009,Percentage,11.9
+56,Hungary,Survey data,Trade union  density,2015,Percentage,9.0
+94,Poland,Administrative data,Trade union  density,1999,Percentage,29.1
+95,Poland,Administrative data,Trade union  density,2000,Percentage,24.7
+96,Poland,Administrative data,Trade union  density,2001,Percentage,23.1
+97,Poland,Administrative data,Trade union  density,2002,Percentage,17.8
+98,Poland,Administrative data,Trade union  density,2003,Percentage,24.0
+99,Poland,Administrative data,Trade union  density,2004,Percentage,23.7
+100,Poland,Administrative data,Trade union  density,2005,Percentage,26.0
+101,Poland,Administrative data,Trade union  density,2006,Percentage,19.4
+102,Poland,Administrative data,Trade union  density,2007,Percentage,15.8
+103,Poland,Administrative data,Trade union  density,2008,Percentage,15.2
+104,Poland,Administrative data,Trade union  density,2009,Percentage,16.3
+105,Poland,Administrative data,Trade union  density,2010,Percentage,18.3
+106,Poland,Administrative data,Trade union  density,2011,Percentage,17.0
+107,Poland,Administrative data,Trade union  density,2012,Percentage,15.4
+108,Poland,Administrative data,Trade union  density,2014,Percentage,15.0
+109,Poland,Administrative data,Trade union  density,2016,Percentage,12.7
+146,Mexico,Administrative data,Trade union  density,1998,Percentage,16.6
+147,Mexico,Administrative data,Trade union  density,2000,Percentage,16.7
+148,Mexico,Administrative data,Trade union  density,2008,Percentage,14.7
+149,Mexico,Administrative data,Trade union  density,2009,Percentage,14.5
+150,Mexico,Administrative data,Trade union  density,2010,Percentage,13.8
+203,Sweden,Administrative data,Trade union  density,1998,Percentage,92.6
+204,Sweden,Administrative data,Trade union  density,1999,Percentage,89.8
+205,Sweden,Administrative data,Trade union  density,2000,Percentage,86.6
+206,Sweden,Administrative data,Trade union  density,2001,Percentage,83.2
+207,Sweden,Administrative data,Trade union  density,2002,Percentage,82.7
+208,Sweden,Administrative data,Trade union  density,2003,Percentage,82.4
+209,Sweden,Administrative data,Trade union  density,2004,Percentage,82.4
+210,Sweden,Administrative data,Trade union  density,2005,Percentage,81.0
+211,Sweden,Administrative data,Trade union  density,2006,Percentage,78.4
+212,Sweden,Administrative data,Trade union  density,2007,Percentage,71.9
+213,Sweden,Administrative data,Trade union  density,2008,Percentage,69.4
+214,Sweden,Administrative data,Trade union  density,2009,Percentage,70.8
+215,Sweden,Administrative data,Trade union  density,2010,Percentage,70.2
+216,Sweden,Administrative data,Trade union  density,2011,Percentage,68.3
+217,Sweden,Administrative data,Trade union  density,2012,Percentage,68.4
+218,Sweden,Administrative data,Trade union  density,2013,Percentage,68.0
+219,Sweden,Administrative data,Trade union  density,2014,Percentage,67.7
+220,Sweden,Administrative data,Trade union  density,2015,Percentage,67.8
+221,Sweden,Administrative data,Trade union  density,2016,Percentage,66.9
+222,Sweden,Administrative data,Trade union  density,2017,Percentage,65.6
+235,France,Administrative data,Trade union  density,1998,Percentage,9.4
+236,France,Administrative data,Trade union  density,1999,Percentage,9.6
+237,France,Administrative data,Trade union  density,2000,Percentage,9.5
+238,France,Administrative data,Trade union  density,2001,Percentage,9.4
+239,France,Administrative data,Trade union  density,2002,Percentage,9.5
+240,France,Administrative data,Trade union  density,2003,Percentage,9.2
+241,France,Administrative data,Trade union  density,2004,Percentage,8.9
+242,France,Administrative data,Trade union  density,2005,Percentage,8.6
+243,France,Administrative data,Trade union  density,2006,Percentage,8.6
+244,France,Administrative data,Trade union  density,2007,Percentage,8.5
+245,France,Administrative data,Trade union  density,2008,Percentage,8.5
+246,France,Administrative data,Trade union  density,2009,Percentage,8.8
+247,France,Administrative data,Trade union  density,2010,Percentage,9.0
+248,France,Administrative data,Trade union  density,2011,Percentage,9.1
+249,France,Administrative data,Trade union  density,2012,Percentage,9.1
+250,France,Administrative data,Trade union  density,2013,Percentage,9.0
+251,France,Administrative data,Trade union  density,2014,Percentage,9.0
+252,France,Administrative data,Trade union  density,2015,Percentage,9.0
+253,France,Administrative data,Trade union  density,2016,Percentage,9.0
+254,France,Administrative data,Trade union  density,2017,Percentage,8.9
+255,France,Administrative data,Trade union  density,2018,Percentage,8.8
+402,Norway,Administrative data,Trade union  density,1998,Percentage,53.6
+403,Norway,Administrative data,Trade union  density,1999,Percentage,52.9
+404,Norway,Administrative data,Trade union  density,2000,Percentage,52.4
+405,Norway,Administrative data,Trade union  density,2001,Percentage,51.9
+406,Norway,Administrative data,Trade union  density,2002,Percentage,52.0
+407,Norway,Administrative data,Trade union  density,2003,Percentage,51.4
+408,Norway,Administrative data,Trade union  density,2004,Percentage,51.0
+409,Norway,Administrative data,Trade union  density,2005,Percentage,50.6
+410,Norway,Administrative data,Trade union  density,2006,Percentage,50.7
+411,Norway,Administrative data,Trade union  density,2007,Percentage,49.6
+412,Norway,Administrative data,Trade union  density,2008,Percentage,49.4
+413,Norway,Administrative data,Trade union  density,2009,Percentage,49.8
+414,Norway,Administrative data,Trade union  density,2010,Percentage,50.0
+415,Norway,Administrative data,Trade union  density,2011,Percentage,49.3
+416,Norway,Administrative data,Trade union  density,2012,Percentage,49.3
+417,Norway,Administrative data,Trade union  density,2013,Percentage,49.3
+418,Norway,Administrative data,Trade union  density,2014,Percentage,49.7
+419,Norway,Administrative data,Trade union  density,2015,Percentage,49.3
+420,Norway,Administrative data,Trade union  density,2016,Percentage,49.3
+421,Norway,Administrative data,Trade union  density,2017,Percentage,49.3
+422,Norway,Administrative data,Trade union  density,2018,Percentage,49.2
+451,Iceland,Administrative data,Trade union  density,1998,Percentage,88.1
+452,Iceland,Administrative data,Trade union  density,1999,Percentage,87.4
+453,Iceland,Administrative data,Trade union  density,2000,Percentage,89.4
+454,Iceland,Administrative data,Trade union  density,2001,Percentage,88.1
+455,Iceland,Administrative data,Trade union  density,2002,Percentage,92.5
+456,Iceland,Administrative data,Trade union  density,2004,Percentage,88.8
+457,Iceland,Administrative data,Trade union  density,2008,Percentage,86.4
+458,Iceland,Administrative data,Trade union  density,2011,Percentage,83.4
+459,Iceland,Administrative data,Trade union  density,2013,Percentage,87.8
+460,Iceland,Administrative data,Trade union  density,2015,Percentage,90.0
+461,Iceland,Administrative data,Trade union  density,2016,Percentage,89.8
+462,Iceland,Administrative data,Trade union  density,2018,Percentage,91.8
+463,Latvia,Administrative data,Trade union  density,2003,Percentage,20.9
+464,Latvia,Administrative data,Trade union  density,2006,Percentage,17.9
+465,Latvia,Administrative data,Trade union  density,2007,Percentage,16.6
+466,Latvia,Administrative data,Trade union  density,2008,Percentage,15.1
+467,Latvia,Administrative data,Trade union  density,2009,Percentage,15.1
+468,Latvia,Administrative data,Trade union  density,2010,Percentage,15.0
+469,Latvia,Administrative data,Trade union  density,2011,Percentage,13.6
+470,Latvia,Administrative data,Trade union  density,2012,Percentage,13.1
+471,Latvia,Administrative data,Trade union  density,2013,Percentage,12.8
+472,Latvia,Administrative data,Trade union  density,2014,Percentage,12.7
+473,Latvia,Administrative data,Trade union  density,2015,Percentage,12.6
+474,Latvia,Administrative data,Trade union  density,2016,Percentage,12.3
+475,Latvia,Administrative data,Trade union  density,2017,Percentage,12.2
+476,Latvia,Administrative data,Trade union  density,2018,Percentage,11.9
+477,Estonia,Survey data,Trade union  density,2000,Percentage,14.0
+478,Estonia,Survey data,Trade union  density,2001,Percentage,14.0
+479,Estonia,Survey data,Trade union  density,2002,Percentage,12.6
+480,Estonia,Survey data,Trade union  density,2003,Percentage,11.0
+481,Estonia,Survey data,Trade union  density,2004,Percentage,9.4
+482,Estonia,Survey data,Trade union  density,2005,Percentage,8.7
+483,Estonia,Survey data,Trade union  density,2006,Percentage,8.4
+484,Estonia,Survey data,Trade union  density,2007,Percentage,7.6
+485,Estonia,Survey data,Trade union  density,2008,Percentage,6.2
+486,Estonia,Survey data,Trade union  density,2009,Percentage,7.6
+487,Estonia,Survey data,Trade union  density,2010,Percentage,8.2
+488,Estonia,Survey data,Trade union  density,2011,Percentage,7.0
+489,Estonia,Survey data,Trade union  density,2012,Percentage,6.0
+490,Estonia,Survey data,Trade union  density,2013,Percentage,5.6
+491,Estonia,Survey data,Trade union  density,2014,Percentage,5.3
+492,Estonia,Survey data,Trade union  density,2015,Percentage,4.5
+493,Estonia,Survey data,Trade union  density,2016,Percentage,5.0
+494,Estonia,Survey data,Trade union  density,2017,Percentage,4.7
+601,Switzerland,Administrative data,Trade union  density,1998,Percentage,21.5
+602,Switzerland,Administrative data,Trade union  density,1999,Percentage,20.9
+603,Switzerland,Administrative data,Trade union  density,2000,Percentage,20.2
+604,Switzerland,Administrative data,Trade union  density,2001,Percentage,19.7
+605,Switzerland,Administrative data,Trade union  density,2002,Percentage,19.9
+606,Switzerland,Administrative data,Trade union  density,2003,Percentage,19.9
+607,Switzerland,Administrative data,Trade union  density,2004,Percentage,19.5
+608,Switzerland,Administrative data,Trade union  density,2005,Percentage,19.3
+609,Switzerland,Administrative data,Trade union  density,2006,Percentage,18.9
+610,Switzerland,Administrative data,Trade union  density,2007,Percentage,18.5
+611,Switzerland,Administrative data,Trade union  density,2008,Percentage,17.5
+612,Switzerland,Administrative data,Trade union  density,2009,Percentage,17.3
+613,Switzerland,Administrative data,Trade union  density,2010,Percentage,17.6
+614,Switzerland,Administrative data,Trade union  density,2011,Percentage,17.0
+615,Switzerland,Administrative data,Trade union  density,2012,Percentage,16.6
+616,Switzerland,Administrative data,Trade union  density,2013,Percentage,16.6
+617,Switzerland,Administrative data,Trade union  density,2014,Percentage,16.1
+618,Switzerland,Administrative data,Trade union  density,2015,Percentage,15.7
+619,Switzerland,Administrative data,Trade union  density,2016,Percentage,15.3
+620,Switzerland,Administrative data,Trade union  density,2017,Percentage,14.9
+626,Belgium,Administrative data,Trade union  density,1998,Percentage,55.1
+627,Belgium,Administrative data,Trade union  density,1999,Percentage,54.3
+628,Belgium,Administrative data,Trade union  density,2000,Percentage,56.2
+629,Belgium,Administrative data,Trade union  density,2001,Percentage,56.4
+630,Belgium,Administrative data,Trade union  density,2002,Percentage,55.6
+631,Belgium,Administrative data,Trade union  density,2003,Percentage,54.2
+632,Belgium,Administrative data,Trade union  density,2004,Percentage,54.0
+633,Belgium,Administrative data,Trade union  density,2005,Percentage,53.7
+634,Belgium,Administrative data,Trade union  density,2006,Percentage,54.9
+635,Belgium,Administrative data,Trade union  density,2007,Percentage,54.7
+636,Belgium,Administrative data,Trade union  density,2008,Percentage,54.5
+637,Belgium,Administrative data,Trade union  density,2009,Percentage,54.9
+638,Belgium,Administrative data,Trade union  density,2010,Percentage,53.8
+639,Belgium,Administrative data,Trade union  density,2011,Percentage,55.1
+640,Belgium,Administrative data,Trade union  density,2012,Percentage,55.0
+641,Belgium,Administrative data,Trade union  density,2013,Percentage,55.1
+642,Belgium,Administrative data,Trade union  density,2014,Percentage,53.8
+643,Belgium,Administrative data,Trade union  density,2015,Percentage,54.2
+644,Belgium,Administrative data,Trade union  density,2016,Percentage,52.8
+645,Belgium,Administrative data,Trade union  density,2017,Percentage,51.9
+646,Belgium,Administrative data,Trade union  density,2018,Percentage,50.3
+668,Israel,Survey data,Trade union  density,2000,Percentage,42.0
+669,Israel,Survey data,Trade union  density,2006,Percentage,31.4
+670,Israel,Survey data,Trade union  density,2012,Percentage,23.4
+671,Canada,Administrative data,Trade union  density,1998,Percentage,32.4
+672,Canada,Administrative data,Trade union  density,1999,Percentage,31.8
+673,Canada,Administrative data,Trade union  density,2000,Percentage,31.2
+674,Canada,Administrative data,Trade union  density,2001,Percentage,31.0
+675,Canada,Administrative data,Trade union  density,2002,Percentage,30.3
+676,Canada,Administrative data,Trade union  density,2003,Percentage,30.2
+677,Canada,Administrative data,Trade union  density,2004,Percentage,30.4
+678,Canada,Administrative data,Trade union  density,2005,Percentage,30.4
+679,Canada,Administrative data,Trade union  density,2006,Percentage,30.1
+680,Canada,Administrative data,Trade union  density,2007,Percentage,30.2
+681,Canada,Administrative data,Trade union  density,2008,Percentage,29.8
+682,Canada,Administrative data,Trade union  density,2009,Percentage,30.7
+683,Canada,Administrative data,Trade union  density,2010,Percentage,30.1
+684,Canada,Administrative data,Trade union  density,2011,Percentage,29.8
+685,Canada,Administrative data,Trade union  density,2012,Percentage,29.8
+686,Canada,Administrative data,Trade union  density,2013,Percentage,29.2
+687,Canada,Administrative data,Trade union  density,2014,Percentage,29.3
+688,Canada,Administrative data,Trade union  density,2015,Percentage,29.4
+689,New Zealand,Survey data,Trade union  density,2016,Percentage,18.3
+690,New Zealand,Survey data,Trade union  density,2017,Percentage,18.7
+691,New Zealand,Survey data,Trade union  density,2018,Percentage,18.8
+709,Ireland,Administrative data,Trade union  density,1998,Percentage,40.5
+710,Ireland,Administrative data,Trade union  density,1999,Percentage,38.0
+711,Ireland,Administrative data,Trade union  density,2000,Percentage,36.0
+712,Ireland,Administrative data,Trade union  density,2001,Percentage,35.1
+713,Ireland,Administrative data,Trade union  density,2002,Percentage,35.2
+714,Ireland,Administrative data,Trade union  density,2003,Percentage,34.9
+715,Ireland,Administrative data,Trade union  density,2004,Percentage,33.6
+716,Ireland,Administrative data,Trade union  density,2005,Percentage,32.5
+717,Ireland,Administrative data,Trade union  density,2006,Percentage,31.8
+718,Ireland,Administrative data,Trade union  density,2007,Percentage,29.6
+719,Ireland,Administrative data,Trade union  density,2008,Percentage,30.1
+720,Ireland,Administrative data,Trade union  density,2009,Percentage,31.5
+721,Ireland,Administrative data,Trade union  density,2010,Percentage,33.5
+722,Ireland,Administrative data,Trade union  density,2011,Percentage,32.7
+723,Ireland,Administrative data,Trade union  density,2013,Percentage,30.5
+724,Ireland,Administrative data,Trade union  density,2016,Percentage,25.6
+725,Ireland,Administrative data,Trade union  density,2017,Percentage,24.5
+726,Chile,Administrative data,Trade union  density,1998,Percentage,12.4
+727,Chile,Administrative data,Trade union  density,1999,Percentage,11.7
+728,Chile,Administrative data,Trade union  density,2000,Percentage,11.8
+729,Chile,Administrative data,Trade union  density,2001,Percentage,11.5
+730,Chile,Administrative data,Trade union  density,2002,Percentage,11.7
+731,Chile,Administrative data,Trade union  density,2003,Percentage,12.3
+732,Chile,Administrative data,Trade union  density,2004,Percentage,12.1
+733,Chile,Administrative data,Trade union  density,2005,Percentage,11.7
+734,Chile,Administrative data,Trade union  density,2006,Percentage,11.8
+735,Chile,Administrative data,Trade union  density,2007,Percentage,12.1
+736,Chile,Administrative data,Trade union  density,2008,Percentage,13.5
+737,Chile,Administrative data,Trade union  density,2009,Percentage,14.4
+738,Chile,Administrative data,Trade union  density,2010,Percentage,14.6
+739,Chile,Administrative data,Trade union  density,2011,Percentage,14.5
+740,Chile,Administrative data,Trade union  density,2012,Percentage,15.1
+741,Chile,Administrative data,Trade union  density,2013,Percentage,14.8
+742,Chile,Administrative data,Trade union  density,2014,Percentage,15.3
+743,Chile,Administrative data,Trade union  density,2015,Percentage,16.1
+744,Chile,Administrative data,Trade union  density,2016,Percentage,17.7
+745,Spain,Administrative data,Trade union  density,1998,Percentage,17.9
+746,Spain,Administrative data,Trade union  density,1999,Percentage,17.6
+747,Spain,Administrative data,Trade union  density,2000,Percentage,17.4
+748,Spain,Administrative data,Trade union  density,2001,Percentage,17.2
+749,Spain,Administrative data,Trade union  density,2002,Percentage,16.9
+750,Spain,Administrative data,Trade union  density,2003,Percentage,16.7
+751,Spain,Administrative data,Trade union  density,2004,Percentage,16.3
+752,Spain,Administrative data,Trade union  density,2005,Percentage,15.9
+753,Spain,Administrative data,Trade union  density,2006,Percentage,15.9
+754,Spain,Administrative data,Trade union  density,2007,Percentage,16.3
+755,Spain,Administrative data,Trade union  density,2008,Percentage,17.5
+756,Spain,Administrative data,Trade union  density,2009,Percentage,18.3
+757,Spain,Administrative data,Trade union  density,2010,Percentage,18.3
+758,Spain,Administrative data,Trade union  density,2011,Percentage,17.9
+759,Spain,Administrative data,Trade union  density,2012,Percentage,18.2
+760,Spain,Administrative data,Trade union  density,2013,Percentage,17.9
+761,Spain,Administrative data,Trade union  density,2014,Percentage,16.8
+762,Spain,Administrative data,Trade union  density,2015,Percentage,15.2
+763,Spain,Administrative data,Trade union  density,2016,Percentage,14.8
+764,Spain,Administrative data,Trade union  density,2017,Percentage,14.2
+765,Spain,Administrative data,Trade union  density,2018,Percentage,13.6
+844,Finland,Administrative data,Trade union  density,1998,Percentage,78.4
+845,Finland,Administrative data,Trade union  density,1999,Percentage,75.8
+846,Finland,Administrative data,Trade union  density,2000,Percentage,74.3
+847,Finland,Administrative data,Trade union  density,2001,Percentage,75.1
+848,Finland,Administrative data,Trade union  density,2002,Percentage,73.7
+849,Finland,Administrative data,Trade union  density,2003,Percentage,72.7
+850,Finland,Administrative data,Trade union  density,2004,Percentage,72.0
+851,Finland,Administrative data,Trade union  density,2005,Percentage,71.1
+852,Finland,Administrative data,Trade union  density,2006,Percentage,70.6
+853,Finland,Administrative data,Trade union  density,2007,Percentage,70.6
+854,Finland,Administrative data,Trade union  density,2008,Percentage,69.9
+855,Finland,Administrative data,Trade union  density,2009,Percentage,71.1
+856,Finland,Administrative data,Trade union  density,2010,Percentage,70.3
+857,Finland,Administrative data,Trade union  density,2011,Percentage,69.5
+858,Finland,Administrative data,Trade union  density,2012,Percentage,69.6
+859,Finland,Administrative data,Trade union  density,2013,Percentage,68.2
+860,Finland,Administrative data,Trade union  density,2014,Percentage,67.6
+861,Finland,Administrative data,Trade union  density,2015,Percentage,66.4
+862,Finland,Administrative data,Trade union  density,2016,Percentage,64.9
+863,Finland,Administrative data,Trade union  density,2017,Percentage,62.2
+864,Finland,Administrative data,Trade union  density,2018,Percentage,60.3
+865,Luxembourg,Administrative data,Trade union  density,1998,Percentage,43.2
+866,Luxembourg,Administrative data,Trade union  density,2003,Percentage,42.5
+867,Luxembourg,Administrative data,Trade union  density,2004,Percentage,41.6
+868,Luxembourg,Administrative data,Trade union  density,2005,Percentage,41.1
+869,Luxembourg,Administrative data,Trade union  density,2006,Percentage,40.1
+870,Luxembourg,Administrative data,Trade union  density,2007,Percentage,38.3
+871,Luxembourg,Administrative data,Trade union  density,2008,Percentage,36.5
+872,Luxembourg,Administrative data,Trade union  density,2009,Percentage,35.9
+873,Luxembourg,Administrative data,Trade union  density,2010,Percentage,35.1
+874,Luxembourg,Administrative data,Trade union  density,2011,Percentage,35.1
+875,Luxembourg,Administrative data,Trade union  density,2012,Percentage,35.3
+876,Luxembourg,Administrative data,Trade union  density,2013,Percentage,34.8
+877,Luxembourg,Administrative data,Trade union  density,2014,Percentage,34.1
+878,Luxembourg,Administrative data,Trade union  density,2015,Percentage,33.3
+879,Luxembourg,Administrative data,Trade union  density,2016,Percentage,32.3
+880,Luxembourg,Administrative data,Trade union  density,2017,Percentage,32.1
+881,Luxembourg,Administrative data,Trade union  density,2018,Percentage,31.8
+908,Korea,Administrative data,Trade union  density,1998,Percentage,11.4
+909,Korea,Administrative data,Trade union  density,1999,Percentage,11.7
+910,Korea,Administrative data,Trade union  density,2000,Percentage,11.4
+911,Korea,Administrative data,Trade union  density,2001,Percentage,11.5
+912,Korea,Administrative data,Trade union  density,2002,Percentage,11.3
+913,Korea,Administrative data,Trade union  density,2003,Percentage,10.7
+914,Korea,Administrative data,Trade union  density,2004,Percentage,10.3
+915,Korea,Administrative data,Trade union  density,2005,Percentage,9.9
+916,Korea,Administrative data,Trade union  density,2006,Percentage,10.0
+917,Korea,Administrative data,Trade union  density,2007,Percentage,10.5
+918,Korea,Administrative data,Trade union  density,2008,Percentage,10.2
+919,Korea,Administrative data,Trade union  density,2009,Percentage,9.9
+920,Korea,Administrative data,Trade union  density,2010,Percentage,9.6
+921,Korea,Administrative data,Trade union  density,2011,Percentage,9.8
+922,Korea,Administrative data,Trade union  density,2012,Percentage,9.9
+923,Korea,Administrative data,Trade union  density,2013,Percentage,10.1
+924,Korea,Administrative data,Trade union  density,2014,Percentage,10.0
+925,Korea,Administrative data,Trade union  density,2015,Percentage,10.0
+926,Korea,Administrative data,Trade union  density,2016,Percentage,10.0
+927,Korea,Administrative data,Trade union  density,2017,Percentage,10.5
+948,United Kingdom,Survey data,Trade union  density,1998,Percentage,29.9
+949,United Kingdom,Survey data,Trade union  density,1999,Percentage,29.7
+950,United Kingdom,Survey data,Trade union  density,2000,Percentage,29.8
+951,United Kingdom,Survey data,Trade union  density,2001,Percentage,29.3
+952,United Kingdom,Survey data,Trade union  density,2002,Percentage,28.8
+953,United Kingdom,Survey data,Trade union  density,2003,Percentage,29.3
+954,United Kingdom,Survey data,Trade union  density,2004,Percentage,28.8
+955,United Kingdom,Survey data,Trade union  density,2005,Percentage,28.6
+956,United Kingdom,Survey data,Trade union  density,2006,Percentage,28.3
+957,United Kingdom,Survey data,Trade union  density,2007,Percentage,28.0
+958,United Kingdom,Survey data,Trade union  density,2008,Percentage,27.5
+959,United Kingdom,Survey data,Trade union  density,2009,Percentage,27.4
+960,United Kingdom,Survey data,Trade union  density,2010,Percentage,26.6
+961,United Kingdom,Survey data,Trade union  density,2011,Percentage,26.0
+962,United Kingdom,Survey data,Trade union  density,2012,Percentage,26.1
+963,United Kingdom,Survey data,Trade union  density,2013,Percentage,25.6
+964,United Kingdom,Survey data,Trade union  density,2014,Percentage,25.0
+965,United Kingdom,Survey data,Trade union  density,2015,Percentage,24.7
+966,United Kingdom,Survey data,Trade union  density,2016,Percentage,23.6
+967,United Kingdom,Survey data,Trade union  density,2017,Percentage,23.3
+968,United Kingdom,Survey data,Trade union  density,2018,Percentage,23.4
+969,Australia,Survey data,Trade union  density,1998,Percentage,28.1
+970,Australia,Survey data,Trade union  density,1999,Percentage,26.0
+971,Australia,Survey data,Trade union  density,2000,Percentage,24.9
+972,Australia,Survey data,Trade union  density,2001,Percentage,24.6
+973,Australia,Survey data,Trade union  density,2002,Percentage,23.2
+974,Australia,Survey data,Trade union  density,2003,Percentage,23.2
+975,Australia,Survey data,Trade union  density,2004,Percentage,22.8
+976,Australia,Survey data,Trade union  density,2005,Percentage,22.5
+977,Australia,Survey data,Trade union  density,2006,Percentage,20.4
+978,Australia,Survey data,Trade union  density,2007,Percentage,18.8
+979,Australia,Survey data,Trade union  density,2008,Percentage,18.8
+980,Australia,Survey data,Trade union  density,2009,Percentage,19.6
+981,Australia,Survey data,Trade union  density,2010,Percentage,18.4
+982,Australia,Survey data,Trade union  density,2011,Percentage,18.4
+983,Australia,Survey data,Trade union  density,2012,Percentage,18.2
+984,Australia,Survey data,Trade union  density,2013,Percentage,17.0
+985,Australia,Survey data,Trade union  density,2014,Percentage,15.1
+986,Australia,Survey data,Trade union  density,2016,Percentage,14.6
+987,Australia,Survey data,Trade union  density,2018,Percentage,13.7
+1159,Netherlands,Survey data,Trade union  density,1998,Percentage,24.6
+1160,Netherlands,Survey data,Trade union  density,1999,Percentage,24.7
+1161,Netherlands,Survey data,Trade union  density,2000,Percentage,22.9
+1162,Netherlands,Survey data,Trade union  density,2001,Percentage,21.2
+1163,Netherlands,Survey data,Trade union  density,2002,Percentage,21.0
+1164,Netherlands,Survey data,Trade union  density,2003,Percentage,20.6
+1165,Netherlands,Survey data,Trade union  density,2004,Percentage,20.8
+1166,Netherlands,Survey data,Trade union  density,2005,Percentage,20.6
+1167,Netherlands,Survey data,Trade union  density,2006,Percentage,20.0
+1168,Netherlands,Survey data,Trade union  density,2007,Percentage,19.3
+1169,Netherlands,Survey data,Trade union  density,2008,Percentage,18.8
+1170,Netherlands,Survey data,Trade union  density,2009,Percentage,19.1
+1171,Netherlands,Survey data,Trade union  density,2010,Percentage,18.6
+1172,Netherlands,Survey data,Trade union  density,2011,Percentage,18.4
+1173,Netherlands,Survey data,Trade union  density,2012,Percentage,17.9
+1174,Netherlands,Survey data,Trade union  density,2013,Percentage,17.8
+1187,France,Survey data,Trade union  density,1998,Percentage,10.5
+1188,France,Survey data,Trade union  density,1999,Percentage,10.8
+1189,France,Survey data,Trade union  density,2000,Percentage,10.8
+1190,France,Survey data,Trade union  density,2001,Percentage,10.8
+1191,France,Survey data,Trade union  density,2002,Percentage,10.8
+1192,France,Survey data,Trade union  density,2003,Percentage,10.8
+1193,France,Survey data,Trade union  density,2004,Percentage,10.5
+1194,France,Survey data,Trade union  density,2005,Percentage,10.5
+1195,France,Survey data,Trade union  density,2008,Percentage,10.7
+1196,France,Survey data,Trade union  density,2010,Percentage,10.8
+1197,France,Survey data,Trade union  density,2013,Percentage,11.0
+1198,France,Survey data,Trade union  density,2016,Percentage,10.8
+1199,Turkey,Administrative data,Trade union  density,1998,Percentage,18.9
+1200,Turkey,Administrative data,Trade union  density,1999,Percentage,20.0
+1201,Turkey,Administrative data,Trade union  density,2000,Percentage,16.0
+1202,Turkey,Administrative data,Trade union  density,2001,Percentage,18.9
+1203,Turkey,Administrative data,Trade union  density,2002,Percentage,17.4
+1204,Turkey,Administrative data,Trade union  density,2003,Percentage,16.6
+1205,Turkey,Administrative data,Trade union  density,2008,Percentage,10.7
+1206,Turkey,Administrative data,Trade union  density,2013,Percentage,6.3
+1207,Turkey,Administrative data,Trade union  density,2014,Percentage,6.9
+1208,Turkey,Administrative data,Trade union  density,2015,Percentage,8.0
+1209,Turkey,Administrative data,Trade union  density,2016,Percentage,8.2
+1210,Turkey,Administrative data,Trade union  density,2017,Percentage,8.6
+1211,Turkey,Administrative data,Trade union  density,2018,Percentage,9.2
+1212,Greece,Administrative data,Trade union  density,1998,Percentage,27.5
+1213,Greece,Administrative data,Trade union  density,2001,Percentage,24.9
+1214,Greece,Administrative data,Trade union  density,2004,Percentage,24.1
+1215,Greece,Administrative data,Trade union  density,2007,Percentage,22.6
+1216,Greece,Administrative data,Trade union  density,2010,Percentage,22.2
+1217,Greece,Administrative data,Trade union  density,2013,Percentage,23.1
+1218,Greece,Administrative data,Trade union  density,2016,Percentage,20.2
+1302,Norway,Survey data,Trade union  density,1998,Percentage,57.0
+1303,Norway,Survey data,Trade union  density,2001,Percentage,55.0
+1304,Norway,Survey data,Trade union  density,2004,Percentage,55.0
+1305,Norway,Survey data,Trade union  density,2008,Percentage,53.0
+1306,Norway,Survey data,Trade union  density,2013,Percentage,52.0
+1307,Norway,Survey data,Trade union  density,2014,Percentage,54.0
+1308,Norway,Survey data,Trade union  density,2016,Percentage,52.0
+1309,Norway,Survey data,Trade union  density,2017,Percentage,51.3
+1326,Austria,Administrative data,Trade union  density,1998,Percentage,38.4
+1327,Austria,Administrative data,Trade union  density,1999,Percentage,37.9
+1328,Austria,Administrative data,Trade union  density,2000,Percentage,36.9
+1329,Austria,Administrative data,Trade union  density,2001,Percentage,36.2
+1330,Austria,Administrative data,Trade union  density,2002,Percentage,36.0
+1331,Austria,Administrative data,Trade union  density,2003,Percentage,34.6
+1332,Austria,Administrative data,Trade union  density,2004,Percentage,34.8
+1333,Austria,Administrative data,Trade union  density,2005,Percentage,33.8
+1334,Austria,Administrative data,Trade union  density,2006,Percentage,31.6
+1335,Austria,Administrative data,Trade union  density,2007,Percentage,30.4
+1336,Austria,Administrative data,Trade union  density,2008,Percentage,29.6
+1337,Austria,Administrative data,Trade union  density,2009,Percentage,29.3
+1338,Austria,Administrative data,Trade union  density,2010,Percentage,28.9
+1339,Austria,Administrative data,Trade union  density,2011,Percentage,28.3
+1340,Austria,Administrative data,Trade union  density,2012,Percentage,28.0
+1341,Austria,Administrative data,Trade union  density,2013,Percentage,27.8
+1342,Austria,Administrative data,Trade union  density,2014,Percentage,27.7
+1343,Austria,Administrative data,Trade union  density,2015,Percentage,27.4
+1344,Austria,Administrative data,Trade union  density,2016,Percentage,26.9
+1345,Austria,Administrative data,Trade union  density,2017,Percentage,26.7
+1346,Austria,Administrative data,Trade union  density,2018,Percentage,26.3
+1401,Denmark,Administrative data,Trade union  density,1998,Percentage,76.3
+1402,Denmark,Administrative data,Trade union  density,1999,Percentage,74.6
+1403,Denmark,Administrative data,Trade union  density,2000,Percentage,74.5
+1404,Denmark,Administrative data,Trade union  density,2001,Percentage,73.9
+1405,Denmark,Administrative data,Trade union  density,2002,Percentage,73.6
+1406,Denmark,Administrative data,Trade union  density,2003,Percentage,72.4
+1407,Denmark,Administrative data,Trade union  density,2004,Percentage,71.7
+1408,Denmark,Administrative data,Trade union  density,2005,Percentage,71.5
+1409,Denmark,Administrative data,Trade union  density,2006,Percentage,69.7
+1410,Denmark,Administrative data,Trade union  density,2007,Percentage,69.0
+1411,Denmark,Administrative data,Trade union  density,2008,Percentage,67.6
+1412,Denmark,Administrative data,Trade union  density,2009,Percentage,67.7
+1413,Denmark,Administrative data,Trade union  density,2010,Percentage,67.2
+1414,Denmark,Administrative data,Trade union  density,2011,Percentage,67.8
+1415,Denmark,Administrative data,Trade union  density,2012,Percentage,68.0
+1416,Denmark,Administrative data,Trade union  density,2013,Percentage,67.8
+1417,Denmark,Administrative data,Trade union  density,2014,Percentage,67.4
+1418,Denmark,Administrative data,Trade union  density,2015,Percentage,67.1
+1419,Denmark,Administrative data,Trade union  density,2016,Percentage,65.5
+1420,Denmark,Administrative data,Trade union  density,2017,Percentage,66.1
+1421,Denmark,Administrative data,Trade union  density,2018,Percentage,66.5
+1422,Estonia,Administrative data,Trade union  density,1998,Percentage,17.1
+1423,Estonia,Administrative data,Trade union  density,2000,Percentage,14.0
+1424,Estonia,Administrative data,Trade union  density,2001,Percentage,13.3
+1425,Estonia,Administrative data,Trade union  density,2002,Percentage,12.8
+1426,Estonia,Administrative data,Trade union  density,2003,Percentage,11.3
+1427,Estonia,Administrative data,Trade union  density,2004,Percentage,10.1
+1428,Estonia,Administrative data,Trade union  density,2005,Percentage,9.4
+1429,Estonia,Administrative data,Trade union  density,2006,Percentage,8.5
+1430,Estonia,Administrative data,Trade union  density,2007,Percentage,7.6
+1431,Estonia,Administrative data,Trade union  density,2008,Percentage,7.0
+1432,Estonia,Administrative data,Trade union  density,2009,Percentage,7.7
+1433,Estonia,Administrative data,Trade union  density,2010,Percentage,8.1
+1434,Estonia,Administrative data,Trade union  density,2011,Percentage,7.0
+1435,Estonia,Administrative data,Trade union  density,2012,Percentage,6.1
+1436,Estonia,Administrative data,Trade union  density,2013,Percentage,5.7
+1437,Estonia,Administrative data,Trade union  density,2014,Percentage,5.5
+1438,Estonia,Administrative data,Trade union  density,2015,Percentage,4.7
+1439,Estonia,Administrative data,Trade union  density,2016,Percentage,4.4
+1440,Estonia,Administrative data,Trade union  density,2017,Percentage,4.3
+1441,Estonia,Administrative data,Trade union  density,2018,Percentage,4.3
+1455,Slovak Republic,Administrative data,Trade union  density,1998,Percentage,36.2
+1456,Slovak Republic,Administrative data,Trade union  density,1999,Percentage,34.2
+1457,Slovak Republic,Administrative data,Trade union  density,2000,Percentage,32.3
+1458,Slovak Republic,Administrative data,Trade union  density,2001,Percentage,30.5
+1459,Slovak Republic,Administrative data,Trade union  density,2002,Percentage,27.4
+1460,Slovak Republic,Administrative data,Trade union  density,2003,Percentage,26.2
+1461,Slovak Republic,Administrative data,Trade union  density,2004,Percentage,23.7
+1462,Slovak Republic,Administrative data,Trade union  density,2005,Percentage,22.8
+1463,Slovak Republic,Administrative data,Trade union  density,2006,Percentage,20.6
+1464,Slovak Republic,Administrative data,Trade union  density,2007,Percentage,18.8
+1465,Slovak Republic,Administrative data,Trade union  density,2008,Percentage,17.2
+1466,Slovak Republic,Administrative data,Trade union  density,2009,Percentage,16.0
+1467,Slovak Republic,Administrative data,Trade union  density,2010,Percentage,15.2
+1468,Slovak Republic,Administrative data,Trade union  density,2011,Percentage,14.1
+1469,Slovak Republic,Administrative data,Trade union  density,2012,Percentage,13.6
+1470,Slovak Republic,Administrative data,Trade union  density,2013,Percentage,13.3
+1471,Slovak Republic,Administrative data,Trade union  density,2014,Percentage,12.8
+1472,Slovak Republic,Administrative data,Trade union  density,2015,Percentage,11.7
+1473,Slovak Republic,Administrative data,Trade union  density,2016,Percentage,10.7
+1474,Slovenia,Administrative data,Trade union  density,1998,Percentage,43.5
+1475,Slovenia,Administrative data,Trade union  density,1999,Percentage,42.1
+1476,Slovenia,Administrative data,Trade union  density,2000,Percentage,44.2
+1477,Slovenia,Administrative data,Trade union  density,2001,Percentage,43.3
+1478,Slovenia,Administrative data,Trade union  density,2002,Percentage,47.1
+1479,Slovenia,Administrative data,Trade union  density,2003,Percentage,45.3
+1480,Slovenia,Administrative data,Trade union  density,2004,Percentage,37.1
+1481,Slovenia,Administrative data,Trade union  density,2005,Percentage,37.5
+1482,Slovenia,Administrative data,Trade union  density,2006,Percentage,32.2
+1483,Slovenia,Administrative data,Trade union  density,2007,Percentage,30.6
+1484,Slovenia,Administrative data,Trade union  density,2008,Percentage,27.3
+1485,Slovenia,Administrative data,Trade union  density,2009,Percentage,37.1
+1486,Slovenia,Administrative data,Trade union  density,2010,Percentage,29.6
+1487,Slovenia,Administrative data,Trade union  density,2011,Percentage,33.1
+1488,Slovenia,Administrative data,Trade union  density,2012,Percentage,23.9
+1489,Slovenia,Administrative data,Trade union  density,2013,Percentage,23.2
+1490,Slovenia,Administrative data,Trade union  density,2014,Percentage,26.4
+1491,Slovenia,Administrative data,Trade union  density,2015,Percentage,20.9
+1492,Slovenia,Administrative data,Trade union  density,2016,Percentage,20.4
+1607,Japan,Administrative data,Trade union  density,1998,Percentage,22.4
+1608,Japan,Administrative data,Trade union  density,1999,Percentage,22.2
+1609,Japan,Administrative data,Trade union  density,2000,Percentage,21.5
+1610,Japan,Administrative data,Trade union  density,2001,Percentage,20.7
+1611,Japan,Administrative data,Trade union  density,2002,Percentage,20.2
+1612,Japan,Administrative data,Trade union  density,2003,Percentage,19.6
+1613,Japan,Administrative data,Trade union  density,2004,Percentage,19.2
+1614,Japan,Administrative data,Trade union  density,2005,Percentage,18.7
+1615,Japan,Administrative data,Trade union  density,2006,Percentage,18.2
+1616,Japan,Administrative data,Trade union  density,2007,Percentage,18.1
+1617,Japan,Administrative data,Trade union  density,2008,Percentage,18.0
+1618,Japan,Administrative data,Trade union  density,2009,Percentage,18.4
+1619,Japan,Administrative data,Trade union  density,2010,Percentage,18.3
+1620,Japan,Administrative data,Trade union  density,2011,Percentage,18.0
+1621,Japan,Administrative data,Trade union  density,2012,Percentage,17.9
+1622,Japan,Administrative data,Trade union  density,2013,Percentage,17.7
+1623,Japan,Administrative data,Trade union  density,2014,Percentage,17.5
+1624,Japan,Administrative data,Trade union  density,2015,Percentage,17.4
+1625,Japan,Administrative data,Trade union  density,2016,Percentage,17.3
+1626,Japan,Administrative data,Trade union  density,2017,Percentage,17.1
+1627,Japan,Administrative data,Trade union  density,2018,Percentage,17.0
+1664,Hungary,Administrative data,Trade union  density,1998,Percentage,27.2
+1665,Hungary,Administrative data,Trade union  density,2000,Percentage,23.8
+1666,Hungary,Administrative data,Trade union  density,2001,Percentage,19.7
+1667,Hungary,Administrative data,Trade union  density,2003,Percentage,17.7
+1668,Hungary,Administrative data,Trade union  density,2005,Percentage,17.2
+1669,Hungary,Administrative data,Trade union  density,2007,Percentage,14.9
+1670,Hungary,Administrative data,Trade union  density,2008,Percentage,14.4
+1671,Hungary,Administrative data,Trade union  density,2012,Percentage,11.8
+1672,Hungary,Administrative data,Trade union  density,2013,Percentage,11.1
+1673,Hungary,Administrative data,Trade union  density,2014,Percentage,10.2
+1674,Hungary,Administrative data,Trade union  density,2015,Percentage,9.4
+1675,Hungary,Administrative data,Trade union  density,2016,Percentage,8.5
+1676,Hungary,Administrative data,Trade union  density,2017,Percentage,8.1
+1677,Hungary,Administrative data,Trade union  density,2018,Percentage,7.9
+1707,Iceland,Survey data,Trade union  density,2003,Percentage,86.5
+1708,Iceland,Survey data,Trade union  density,2004,Percentage,84.1
+1709,Iceland,Survey data,Trade union  density,2005,Percentage,84.1
+1710,Iceland,Survey data,Trade union  density,2006,Percentage,85.2
+1711,Iceland,Survey data,Trade union  density,2007,Percentage,84.9
+1712,Iceland,Survey data,Trade union  density,2008,Percentage,84.7
+1713,Iceland,Survey data,Trade union  density,2009,Percentage,84.9
+1714,Iceland,Survey data,Trade union  density,2010,Percentage,85.2
+1715,Iceland,Survey data,Trade union  density,2011,Percentage,85.0
+1716,Iceland,Survey data,Trade union  density,2012,Percentage,85.3
+1717,Iceland,Survey data,Trade union  density,2013,Percentage,88.9
+1718,Iceland,Survey data,Trade union  density,2014,Percentage,90.4
+1719,Iceland,Survey data,Trade union  density,2015,Percentage,91.6
+1720,Iceland,Survey data,Trade union  density,2016,Percentage,90.4
+1721,Iceland,Survey data,Trade union  density,2017,Percentage,91.0
+1722,Iceland,Survey data,Trade union  density,2018,Percentage,90.7
+1744,Mexico,Survey data,Trade union  density,1998,Percentage,17.0
+1745,Mexico,Survey data,Trade union  density,2000,Percentage,16.9
+1746,Mexico,Survey data,Trade union  density,2002,Percentage,17.2
+1747,Mexico,Survey data,Trade union  density,2005,Percentage,16.9
+1748,Mexico,Survey data,Trade union  density,2006,Percentage,16.3
+1749,Mexico,Survey data,Trade union  density,2007,Percentage,16.7
+1750,Mexico,Survey data,Trade union  density,2008,Percentage,15.6
+1751,Mexico,Survey data,Trade union  density,2009,Percentage,15.3
+1752,Mexico,Survey data,Trade union  density,2010,Percentage,14.5
+1753,Mexico,Survey data,Trade union  density,2011,Percentage,14.7
+1754,Mexico,Survey data,Trade union  density,2012,Percentage,14.0
+1755,Mexico,Survey data,Trade union  density,2013,Percentage,13.8
+1756,Mexico,Survey data,Trade union  density,2014,Percentage,13.6
+1757,Mexico,Survey data,Trade union  density,2015,Percentage,13.1
+1758,Mexico,Survey data,Trade union  density,2016,Percentage,12.7
+1759,Mexico,Survey data,Trade union  density,2017,Percentage,12.5
+1760,Mexico,Survey data,Trade union  density,2018,Percentage,12.0
+1803,Czech Republic,Administrative data,Trade union  density,1998,Percentage,32.1
+1804,Czech Republic,Administrative data,Trade union  density,1999,Percentage,30.0
+1805,Czech Republic,Administrative data,Trade union  density,2000,Percentage,27.2
+1806,Czech Republic,Administrative data,Trade union  density,2001,Percentage,23.8
+1807,Czech Republic,Administrative data,Trade union  density,2002,Percentage,22.4
+1808,Czech Republic,Administrative data,Trade union  density,2003,Percentage,22.3
+1809,Czech Republic,Administrative data,Trade union  density,2004,Percentage,20.6
+1810,Czech Republic,Administrative data,Trade union  density,2005,Percentage,19.1
+1811,Czech Republic,Administrative data,Trade union  density,2006,Percentage,18.1
+1812,Czech Republic,Administrative data,Trade union  density,2007,Percentage,17.4
+1813,Czech Republic,Administrative data,Trade union  density,2008,Percentage,16.9
+1814,Czech Republic,Administrative data,Trade union  density,2009,Percentage,16.7
+1815,Czech Republic,Administrative data,Trade union  density,2010,Percentage,16.1
+1816,Czech Republic,Administrative data,Trade union  density,2011,Percentage,15.4
+1817,Czech Republic,Administrative data,Trade union  density,2012,Percentage,14.8
+1818,Czech Republic,Administrative data,Trade union  density,2013,Percentage,13.6
+1819,Czech Republic,Administrative data,Trade union  density,2014,Percentage,12.9
+1820,Czech Republic,Administrative data,Trade union  density,2015,Percentage,12.0
+1821,Czech Republic,Administrative data,Trade union  density,2016,Percentage,12.0
+1822,Czech Republic,Administrative data,Trade union  density,2017,Percentage,11.7
+1823,Czech Republic,Administrative data,Trade union  density,2018,Percentage,11.5
+1881,Sweden,Survey data,Trade union  density,1998,Percentage,81.2
+1882,Sweden,Survey data,Trade union  density,1999,Percentage,80.6
+1883,Sweden,Survey data,Trade union  density,2000,Percentage,79.0
+1884,Sweden,Survey data,Trade union  density,2001,Percentage,77.5
+1885,Sweden,Survey data,Trade union  density,2002,Percentage,77.4
+1886,Sweden,Survey data,Trade union  density,2003,Percentage,77.5
+1887,Sweden,Survey data,Trade union  density,2004,Percentage,76.4
+1888,Sweden,Survey data,Trade union  density,2005,Percentage,75.7
+1889,Sweden,Survey data,Trade union  density,2006,Percentage,74.2
+1890,Sweden,Survey data,Trade union  density,2007,Percentage,70.8
+1891,Sweden,Survey data,Trade union  density,2008,Percentage,68.3
+1892,Sweden,Survey data,Trade union  density,2009,Percentage,68.4
+1893,Sweden,Survey data,Trade union  density,2010,Percentage,68.2
+1894,Sweden,Survey data,Trade union  density,2011,Percentage,67.5
+1895,Sweden,Survey data,Trade union  density,2012,Percentage,67.5
+1896,Sweden,Survey data,Trade union  density,2013,Percentage,67.7
+1897,Sweden,Survey data,Trade union  density,2014,Percentage,67.3
+1898,Sweden,Survey data,Trade union  density,2015,Percentage,67.0
+1899,Sweden,Survey data,Trade union  density,2016,Percentage,66.7
+1900,Sweden,Survey data,Trade union  density,2017,Percentage,66.1
+1901,Sweden,Survey data,Trade union  density,2018,Percentage,64.9
+1923,Finland,Survey data,Trade union  density,2008,Percentage,64.7
+1924,Finland,Survey data,Trade union  density,2009,Percentage,65.7
+1925,Finland,Survey data,Trade union  density,2010,Percentage,64.7
+1926,Finland,Survey data,Trade union  density,2011,Percentage,64.2
+1927,Finland,Survey data,Trade union  density,2012,Percentage,63.7
+1928,Finland,Survey data,Trade union  density,2013,Percentage,63.5
+1929,Finland,Survey data,Trade union  density,2014,Percentage,63.0
+1930,Finland,Survey data,Trade union  density,2015,Percentage,62.9
+1931,Finland,Survey data,Trade union  density,2016,Percentage,60.3
+1932,Finland,Survey data,Trade union  density,2017,Percentage,58.1
+1954,Germany,Administrative data,Trade union  density,1998,Percentage,25.9
+1955,Germany,Administrative data,Trade union  density,1999,Percentage,25.3
+1956,Germany,Administrative data,Trade union  density,2000,Percentage,24.6
+1957,Germany,Administrative data,Trade union  density,2001,Percentage,23.7
+1958,Germany,Administrative data,Trade union  density,2002,Percentage,23.5
+1959,Germany,Administrative data,Trade union  density,2003,Percentage,23.0
+1960,Germany,Administrative data,Trade union  density,2004,Percentage,22.2
+1961,Germany,Administrative data,Trade union  density,2005,Percentage,21.5
+1962,Germany,Administrative data,Trade union  density,2006,Percentage,20.6
+1963,Germany,Administrative data,Trade union  density,2007,Percentage,19.8
+1964,Germany,Administrative data,Trade union  density,2008,Percentage,19.0
+1965,Germany,Administrative data,Trade union  density,2009,Percentage,18.8
+1966,Germany,Administrative data,Trade union  density,2010,Percentage,18.9
+1967,Germany,Administrative data,Trade union  density,2011,Percentage,18.4
+1968,Germany,Administrative data,Trade union  density,2012,Percentage,18.3
+1969,Germany,Administrative data,Trade union  density,2013,Percentage,18.0
+1970,Germany,Administrative data,Trade union  density,2014,Percentage,17.7
+1971,Germany,Administrative data,Trade union  density,2015,Percentage,17.6
+1972,Germany,Administrative data,Trade union  density,2016,Percentage,17.0
+1973,Germany,Administrative data,Trade union  density,2017,Percentage,16.7
+1974,Germany,Administrative data,Trade union  density,2018,Percentage,16.5
+2005,United Kingdom,Administrative data,Trade union  density,1998,Percentage,30.1
+2006,United Kingdom,Administrative data,Trade union  density,1999,Percentage,30.0
+2007,United Kingdom,Administrative data,Trade union  density,2000,Percentage,29.7
+2008,United Kingdom,Administrative data,Trade union  density,2001,Percentage,29.0
+2009,United Kingdom,Administrative data,Trade union  density,2002,Percentage,28.7
+2010,United Kingdom,Administrative data,Trade union  density,2003,Percentage,28.5
+2011,United Kingdom,Administrative data,Trade union  density,2004,Percentage,27.6
+2012,United Kingdom,Administrative data,Trade union  density,2005,Percentage,27.0
+2013,United Kingdom,Administrative data,Trade union  density,2006,Percentage,27.2
+2014,United Kingdom,Administrative data,Trade union  density,2007,Percentage,27.2
+2015,United Kingdom,Administrative data,Trade union  density,2008,Percentage,27.0
+2016,United Kingdom,Administrative data,Trade union  density,2009,Percentage,27.0
+2017,United Kingdom,Administrative data,Trade union  density,2010,Percentage,26.8
+2018,United Kingdom,Administrative data,Trade union  density,2011,Percentage,26.5
+2019,United Kingdom,Administrative data,Trade union  density,2012,Percentage,26.1
+2020,United Kingdom,Administrative data,Trade union  density,2013,Percentage,25.4
+2021,United Kingdom,Administrative data,Trade union  density,2014,Percentage,25.0
+2022,United Kingdom,Administrative data,Trade union  density,2015,Percentage,24.2
+2023,United Kingdom,Administrative data,Trade union  density,2016,Percentage,23.7
+2024,United Kingdom,Administrative data,Trade union  density,2017,Percentage,23.2
+2025,United Kingdom,Administrative data,Trade union  density,2018,Percentage,23.4
+2065,Australia,Administrative data,Trade union  density,1998,Percentage,27.9
+2066,Australia,Administrative data,Trade union  density,1999,Percentage,25.2
+2067,Australia,Administrative data,Trade union  density,2000,Percentage,24.8
+2068,Australia,Administrative data,Trade union  density,2003,Percentage,23.2
+2069,Australia,Administrative data,Trade union  density,2008,Percentage,18.5
+2070,Australia,Administrative data,Trade union  density,2013,Percentage,17.1
+2071,Australia,Administrative data,Trade union  density,2017,Percentage,14.7
+2072,Portugal,Administrative data,Trade union  density,2002,Percentage,20.5
+2073,Portugal,Administrative data,Trade union  density,2003,Percentage,21.1
+2074,Portugal,Administrative data,Trade union  density,2004,Percentage,21.6
+2075,Portugal,Administrative data,Trade union  density,2006,Percentage,21.1
+2076,Portugal,Administrative data,Trade union  density,2008,Percentage,20.7
+2077,Portugal,Administrative data,Trade union  density,2010,Percentage,19.6
+2078,Portugal,Administrative data,Trade union  density,2011,Percentage,18.7
+2079,Portugal,Administrative data,Trade union  density,2015,Percentage,16.1
+2080,Portugal,Administrative data,Trade union  density,2016,Percentage,15.3
+2132,Netherlands,Administrative data,Trade union  density,1998,Percentage,23.9
+2133,Netherlands,Administrative data,Trade union  density,1999,Percentage,23.6
+2134,Netherlands,Administrative data,Trade union  density,2000,Percentage,22.6
+2135,Netherlands,Administrative data,Trade union  density,2001,Percentage,21.8
+2136,Netherlands,Administrative data,Trade union  density,2002,Percentage,21.6
+2137,Netherlands,Administrative data,Trade union  density,2003,Percentage,21.4
+2138,Netherlands,Administrative data,Trade union  density,2004,Percentage,21.3
+2139,Netherlands,Administrative data,Trade union  density,2005,Percentage,22.1
+2140,Netherlands,Administrative data,Trade union  density,2006,Percentage,21.4
+2141,Netherlands,Administrative data,Trade union  density,2007,Percentage,20.2
+2142,Netherlands,Administrative data,Trade union  density,2008,Percentage,20.0
+2143,Netherlands,Administrative data,Trade union  density,2009,Percentage,20.0
+2144,Netherlands,Administrative data,Trade union  density,2010,Percentage,19.5
+2145,Netherlands,Administrative data,Trade union  density,2011,Percentage,19.3
+2146,Netherlands,Administrative data,Trade union  density,2012,Percentage,18.8
+2147,Netherlands,Administrative data,Trade union  density,2013,Percentage,18.2
+2148,Netherlands,Administrative data,Trade union  density,2014,Percentage,18.1
+2149,Netherlands,Administrative data,Trade union  density,2015,Percentage,17.7
+2150,Netherlands,Administrative data,Trade union  density,2016,Percentage,17.3
+2151,Netherlands,Administrative data,Trade union  density,2017,Percentage,16.8
+2152,Netherlands,Administrative data,Trade union  density,2018,Percentage,16.4
+2198,Korea,Survey data,Trade union  density,2003,Percentage,11.4
+2199,Korea,Survey data,Trade union  density,2004,Percentage,12.4
+2200,Korea,Survey data,Trade union  density,2005,Percentage,11.8
+2201,Korea,Survey data,Trade union  density,2006,Percentage,11.3
+2202,Korea,Survey data,Trade union  density,2007,Percentage,12.1
+2203,Korea,Survey data,Trade union  density,2008,Percentage,12.7
+2204,Korea,Survey data,Trade union  density,2009,Percentage,12.2
+2205,Korea,Survey data,Trade union  density,2010,Percentage,11.4
+2206,Korea,Survey data,Trade union  density,2011,Percentage,10.9
+2207,Korea,Survey data,Trade union  density,2012,Percentage,11.5
+2208,Korea,Survey data,Trade union  density,2013,Percentage,12.4
+2209,Korea,Survey data,Trade union  density,2014,Percentage,12.5
+2210,Korea,Survey data,Trade union  density,2015,Percentage,12.3
+2211,Korea,Survey data,Trade union  density,2016,Percentage,11.9
+2212,Korea,Survey data,Trade union  density,2017,Percentage,12.4
+2259,Israel,Administrative data,Trade union  density,2000,Percentage,37.7
+2260,Israel,Administrative data,Trade union  density,2007,Percentage,30.3
+2261,Israel,Administrative data,Trade union  density,2012,Percentage,22.8
+2262,Israel,Administrative data,Trade union  density,2017,Percentage,25.0
+2263,Canada,Survey data,Trade union  density,1998,Percentage,28.6
+2264,Canada,Survey data,Trade union  density,1999,Percentage,28.0
+2265,Canada,Survey data,Trade union  density,2000,Percentage,28.2
+2266,Canada,Survey data,Trade union  density,2001,Percentage,28.4
+2267,Canada,Survey data,Trade union  density,2002,Percentage,28.3
+2268,Canada,Survey data,Trade union  density,2003,Percentage,28.2
+2269,Canada,Survey data,Trade union  density,2004,Percentage,27.8
+2270,Canada,Survey data,Trade union  density,2005,Percentage,27.7
+2271,Canada,Survey data,Trade union  density,2006,Percentage,27.4
+2272,Canada,Survey data,Trade union  density,2007,Percentage,27.3
+2273,Canada,Survey data,Trade union  density,2008,Percentage,27.0
+2274,Canada,Survey data,Trade union  density,2009,Percentage,27.3
+2275,Canada,Survey data,Trade union  density,2010,Percentage,27.2
+2276,Canada,Survey data,Trade union  density,2011,Percentage,26.9
+2277,Canada,Survey data,Trade union  density,2012,Percentage,27.2
+2278,Canada,Survey data,Trade union  density,2013,Percentage,27.1
+2279,Canada,Survey data,Trade union  density,2014,Percentage,26.4
+2280,Canada,Survey data,Trade union  density,2015,Percentage,26.5
+2281,Canada,Survey data,Trade union  density,2016,Percentage,26.3
+2282,Canada,Survey data,Trade union  density,2017,Percentage,26.3
+2283,Canada,Survey data,Trade union  density,2018,Percentage,25.9
+2284,New Zealand,Administrative data,Trade union  density,1998,Percentage,22.1
+2285,New Zealand,Administrative data,Trade union  density,1999,Percentage,21.7
+2286,New Zealand,Administrative data,Trade union  density,2000,Percentage,22.4
+2287,New Zealand,Administrative data,Trade union  density,2001,Percentage,22.3
+2288,New Zealand,Administrative data,Trade union  density,2002,Percentage,21.8
+2289,New Zealand,Administrative data,Trade union  density,2003,Percentage,21.7
+2290,New Zealand,Administrative data,Trade union  density,2004,Percentage,21.7
+2291,New Zealand,Administrative data,Trade union  density,2005,Percentage,22.3
+2292,New Zealand,Administrative data,Trade union  density,2006,Percentage,21.8
+2293,New Zealand,Administrative data,Trade union  density,2007,Percentage,20.8
+2294,New Zealand,Administrative data,Trade union  density,2008,Percentage,21.4
+2295,New Zealand,Administrative data,Trade union  density,2009,Percentage,21.5
+2296,New Zealand,Administrative data,Trade union  density,2010,Percentage,21.4
+2297,New Zealand,Administrative data,Trade union  density,2011,Percentage,20.5
+2298,New Zealand,Administrative data,Trade union  density,2012,Percentage,20.3
+2299,New Zealand,Administrative data,Trade union  density,2013,Percentage,19.5
+2300,New Zealand,Administrative data,Trade union  density,2014,Percentage,18.5
+2301,New Zealand,Administrative data,Trade union  density,2015,Percentage,17.9
+2302,New Zealand,Administrative data,Trade union  density,2016,Percentage,17.7
+2303,New Zealand,Administrative data,Trade union  density,2017,Percentage,17.3
+2325,Italy,Administrative data,Trade union  density,1998,Percentage,35.3
+2326,Italy,Administrative data,Trade union  density,1999,Percentage,35.0
+2327,Italy,Administrative data,Trade union  density,2000,Percentage,34.4
+2328,Italy,Administrative data,Trade union  density,2001,Percentage,33.8
+2329,Italy,Administrative data,Trade union  density,2002,Percentage,33.4
+2330,Italy,Administrative data,Trade union  density,2003,Percentage,33.2
+2331,Italy,Administrative data,Trade union  density,2004,Percentage,33.6
+2332,Italy,Administrative data,Trade union  density,2005,Percentage,33.3
+2333,Italy,Administrative data,Trade union  density,2006,Percentage,33.1
+2334,Italy,Administrative data,Trade union  density,2007,Percentage,33.5
+2335,Italy,Administrative data,Trade union  density,2008,Percentage,33.4
+2336,Italy,Administrative data,Trade union  density,2009,Percentage,34.7
+2337,Italy,Administrative data,Trade union  density,2010,Percentage,35.5
+2338,Italy,Administrative data,Trade union  density,2011,Percentage,35.8
+2339,Italy,Administrative data,Trade union  density,2012,Percentage,36.3
+2340,Italy,Administrative data,Trade union  density,2013,Percentage,36.8
+2341,Italy,Administrative data,Trade union  density,2014,Percentage,36.4
+2342,Italy,Administrative data,Trade union  density,2015,Percentage,35.7
+2343,Italy,Administrative data,Trade union  density,2016,Percentage,34.4
+2344,Italy,Administrative data,Trade union  density,2017,Percentage,34.3
+2345,Italy,Administrative data,Trade union  density,2018,Percentage,34.4
+2346,Ireland,Survey data,Trade union  density,2001,Percentage,38.0
+2347,Ireland,Survey data,Trade union  density,2002,Percentage,36.1
+2348,Ireland,Survey data,Trade union  density,2003,Percentage,37.6
+2349,Ireland,Survey data,Trade union  density,2004,Percentage,34.6
+2350,Ireland,Survey data,Trade union  density,2005,Percentage,33.2
+2351,Ireland,Survey data,Trade union  density,2006,Percentage,31.8
+2352,Ireland,Survey data,Trade union  density,2007,Percentage,30.5
+2353,Ireland,Survey data,Trade union  density,2008,Percentage,30.9
+2354,Ireland,Survey data,Trade union  density,2009,Percentage,31.9
+2355,Ireland,Survey data,Trade union  density,2010,Percentage,31.6
+2356,Ireland,Survey data,Trade union  density,2011,Percentage,31.6
+2357,Ireland,Survey data,Trade union  density,2012,Percentage,30.1
+2358,Ireland,Survey data,Trade union  density,2013,Percentage,28.5
+2359,Ireland,Survey data,Trade union  density,2014,Percentage,26.3
+2360,Ireland,Survey data,Trade union  density,2015,Percentage,25.4
+2361,Ireland,Survey data,Trade union  density,2016,Percentage,23.4
+2362,Ireland,Survey data,Trade union  density,2017,Percentage,24.3
+2363,Ireland,Survey data,Trade union  density,2018,Percentage,24.1
+2364,Spain,Survey data,Trade union  density,2006,Percentage,19.5
+2365,Spain,Survey data,Trade union  density,2007,Percentage,18.1
+2366,Spain,Survey data,Trade union  density,2008,Percentage,19.8
+2367,Spain,Survey data,Trade union  density,2009,Percentage,19.9
+2368,Spain,Survey data,Trade union  density,2010,Percentage,18.9
+2369,Lithuania,Administrative data,Trade union  density,1999,Percentage,14.6
+2370,Lithuania,Administrative data,Trade union  density,2001,Percentage,16.8
+2371,Lithuania,Administrative data,Trade union  density,2003,Percentage,13.6
+2372,Lithuania,Administrative data,Trade union  density,2006,Percentage,9.8
+2373,Lithuania,Administrative data,Trade union  density,2007,Percentage,9.3
+2374,Lithuania,Administrative data,Trade union  density,2008,Percentage,8.9
+2375,Lithuania,Administrative data,Trade union  density,2009,Percentage,10.0
+2376,Lithuania,Administrative data,Trade union  density,2010,Percentage,10.1
+2377,Lithuania,Administrative data,Trade union  density,2011,Percentage,9.7
+2378,Lithuania,Administrative data,Trade union  density,2012,Percentage,9.0
+2379,Lithuania,Administrative data,Trade union  density,2013,Percentage,8.4
+2380,Lithuania,Administrative data,Trade union  density,2014,Percentage,8.1
+2381,Lithuania,Administrative data,Trade union  density,2015,Percentage,7.9
+2382,Lithuania,Administrative data,Trade union  density,2016,Percentage,7.7
+2383,Lithuania,Administrative data,Trade union  density,2017,Percentage,7.7
+2384,Lithuania,Administrative data,Trade union  density,2018,Percentage,7.1
+2406,United States,Survey data,Trade union  density,1998,Percentage,13.4
+2407,United States,Survey data,Trade union  density,1999,Percentage,13.4
+2408,United States,Survey data,Trade union  density,2000,Percentage,12.9
+2409,United States,Survey data,Trade union  density,2001,Percentage,12.9
+2410,United States,Survey data,Trade union  density,2002,Percentage,12.8
+2411,United States,Survey data,Trade union  density,2003,Percentage,12.4
+2412,United States,Survey data,Trade union  density,2004,Percentage,12.0
+2413,United States,Survey data,Trade union  density,2005,Percentage,12.0
+2414,United States,Survey data,Trade union  density,2006,Percentage,11.5
+2415,United States,Survey data,Trade union  density,2007,Percentage,11.6
+2416,United States,Survey data,Trade union  density,2008,Percentage,11.9
+2417,United States,Survey data,Trade union  density,2009,Percentage,11.8
+2418,United States,Survey data,Trade union  density,2010,Percentage,11.4
+2419,United States,Survey data,Trade union  density,2011,Percentage,11.3
+2420,United States,Survey data,Trade union  density,2012,Percentage,10.8
+2421,United States,Survey data,Trade union  density,2013,Percentage,10.8
+2422,United States,Survey data,Trade union  density,2014,Percentage,10.7
+2423,United States,Survey data,Trade union  density,2015,Percentage,10.6
+2424,United States,Survey data,Trade union  density,2016,Percentage,10.3
+2425,United States,Survey data,Trade union  density,2017,Percentage,10.3
+2426,United States,Survey data,Trade union  density,2018,Percentage,10.1
+2507,Luxembourg,Survey data,Trade union  density,2010,Percentage,40.0
+2508,Luxembourg,Survey data,Trade union  density,2011,Percentage,36.6
+2509,Luxembourg,Survey data,Trade union  density,2012,Percentage,35.2
+2510,Luxembourg,Survey data,Trade union  density,2013,Percentage,34.0
+2511,Luxembourg,Survey data,Trade union  density,2014,Percentage,36.3
